@@ -17,4 +17,7 @@ This repository contains the formal mathematical proofs validating the claims ma
 2. Run the following command in this directory:
 
    ```bash
+
    agda --cubical --safe ParedesOrchestrationTheory.lagda.md
+
+   https://zenodo.org/records/17729376
